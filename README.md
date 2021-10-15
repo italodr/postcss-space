@@ -1,5 +1,7 @@
 # PostCSS Space
 
+[![Build Status](https://app.travis-ci.com/italodr/postcss-space.svg?branch=main)](https://app.travis-ci.com/github/italodr/postcss-space) [![GitHub version](https://badge.fury.io/gh/italodr%2Fpostcss-space.svg)](https://badge.fury.io/gh/italodr%2Fpostcss-space)
+
 Maintain a consistent space throughout your project
 
 Before:
@@ -53,7 +55,7 @@ postcss([ require('postcss-space') ])
 
 Fallback options:
 
-```json
+```js
 {
     base: 8,
     unit: 'px'
