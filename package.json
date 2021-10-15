@@ -1,0 +1,26 @@
+{
+  "name": "postcss-space",
+  "version": "1.0.0",
+  "description": "Maintain a consistent space throughout your project",
+  "keywords": [
+    "postcss",
+    "css",
+    "postcss-plugin",
+    "utility"
+  ],
+  "author": "Italo Devoto Ramella <italodr@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/italodr/postcss-space.git",
+  "bugs": {
+    "url": "https://github.com/italodr/postcss-space/issues"
+  },
+  "homepage": "https://github.com/italodr/postcss-space",
+  "devDependencies": {
+    "jest": "^27.2.5",
+    "postcss": "^8.3.9",
+    "prettier": "^2.4.1"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
